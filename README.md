@@ -1,6 +1,6 @@
 # Contact Keeper
 
-> Full stack MERN contact manager with React hooks, context & JWT authentication. Part of my React course on Udemy.
+> Full stack MERN contact manager with React hooks, context & JWT authentication.
 
 This is my version of the website, that I was taught by Brad Traversy from his [Udemy Course](https://www.udemy.com/course/mern-stack-front-to-back/)
 
